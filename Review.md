@@ -53,3 +53,8 @@ Tampilan saat mengklik "Open Project" yang mana akan membuka file pekerjaan kita
 
 Tampilan saat mengklik "Extension" yang akan memberikan kita pilihan ekstensi yang bisa kita gunakan untuk projek kita
 ![Tampilan awal](6.png)
+
+---
+
+# Media Yang Dibuat
+https://mellow-gingersnap-5db7e1.netlify.app/
