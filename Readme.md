@@ -57,4 +57,4 @@ Tampilan saat mengklik "Extension" yang akan memberikan kita pilihan ekstensi ya
 ---
 
 # Media Yang Dibuat
-https://mellow-gingersnap-5db7e1.netlify.app/
+https://klasifikasi-makhluk-hidup.netlify.app/
